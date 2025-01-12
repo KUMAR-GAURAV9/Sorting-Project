@@ -5,7 +5,7 @@ Includes functionality to choose between each type of sorting algorithm, shuffle
 Below are demonstrations:
 
 # Selection Sort
-![Selection Sort](demo/SelectionSort.gif)
+![Selection Sort](SelectionSort.gif)
 
 # Insertion Sort
 ![Insertion Sort](demo/InsertionSort.gif)
