@@ -8,7 +8,7 @@ Below are demonstrations:
 ![Selection Sort](SelectionSort.gif)
 
 # Insertion Sort
-![Insertion Sort](demo/InsertionSort.gif)
+![Insertion Sort](InsertionSort.gif)
 
 # Bubble Sort
-![Bubble Sort](demo/BubbleSort.gif)
+![Bubble Sort](BubbleSort.gif)
