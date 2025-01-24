@@ -13,4 +13,4 @@ Below are demonstrations:
 # Bubble Sort
 ![Bubble Sort](BubbleSort.gif)
 # Merge Sort
-![Merge Sort](merge sort.gif)
+![Merge Sort](mergesort.gif)
